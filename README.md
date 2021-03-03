@@ -1,2 +1,2 @@
 # HelloWorld
-用于给 git 初学者测试
+用于给 git 初学者做测试
